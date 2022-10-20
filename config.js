@@ -8,9 +8,9 @@ const CONFIG = {
     btnNo: 'không thèm',
     question:'gì? cậu muốn nói cho tớ cái này á',
     btnReply: 'Gửi',
-    reply: 'tớ thích cậu <333',
-    mess: 'tớ biết mà 🥰.nhớ đến nhaa 😘😘',
+    reply: 'cám ơn các cậu nhaa<333',
+    mess: 'tất cả cho những bông hoa của chúng tớ🥰.nhớ đến nhaa 😘😘',
     messDesc: '7h30 tối thứ 7 không đi ăn đấm nhé công chúa.',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://www.facebook.com/messages/t/100056755159590'
+    messLink: 'https://www.facebook.com/messages/t/3563331893697418'
 }
